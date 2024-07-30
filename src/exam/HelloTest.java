@@ -4,7 +4,7 @@ public class HelloTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("dkssudgkt");
+		System.out.println("dkssu22dgkt");
 	}
 
 }
